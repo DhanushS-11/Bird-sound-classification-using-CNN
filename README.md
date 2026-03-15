@@ -81,7 +81,7 @@ pip install streamlit_extras
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-repo/Bird-Sound-Classification.git
+git clone https://github.com/DhanushS-11/Bird-Sound-Classification.git
 ```
 
 2. Install requirements
@@ -98,7 +98,7 @@ streamlit run main.py
 
 
 ## License
-This project is licensed under the [**MIT License**](https://github.com/Villwin007/Bird-sound-classification-using-CNN/blob/master/LICENSE). Please review the LICENSE file for more details.
+This project is licensed under the [**MIT License**](https://github.com/DhanushS-11/Bird-sound-classification-using-CNN/blob/master/LICENSE). Please review the LICENSE file for more details.
 
 ## Contact
 - Email: villwin11@gmail.com
